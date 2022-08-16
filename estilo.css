@@ -1,0 +1,38 @@
+#tudo {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: red;
+    height: 900px;
+}
+header {
+    width: 600px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+}
+nav {
+    width: 600px;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+}
+main {
+    width: 1150px;
+    height: 500px;
+    background-color: green;
+    float: left;
+    margin-left: 25px;
+}
+section {
+    width: 350px;
+    margin: 0 16px;
+    background-color: blueviolet;
+    height: 500px;
+    float: left;
+}
+footer {
+    width: 1100px;
+    height: 200px;
+    background-color:burlywood;
+    float: left;
+}
