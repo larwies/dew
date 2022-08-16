@@ -1,0 +1,26 @@
+#teste {
+    width: 90%;
+    height: 700px;
+    background-color: blue;
+    margin: 0 auto;
+}
+
+@media (max-width: 480px) {
+    #teste {
+        background-color: yellow;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 780px) {
+    #teste {
+        background-color: red;
+    }
+    h1{font-size: 60px;}
+}
+
+@media (min-width: 981px){
+    #teste {
+        background-color: green;
+    }
+    h1{font-size: 60px;}
+}
